@@ -58,7 +58,6 @@ Write a C program to calculate the Product of first 12 natural numbers using Rec
 6.	Print the result, indicating it is the product of the first 12 natural numbers.
 
 ## PROGRAM:
-## OUTPUT:
 ```
 #include <stdio.h>
 
@@ -77,9 +76,11 @@ int main() {
     return 0;
 }
 
-```       		
-## RESULT:
+```
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/e5f6dd9c-c4db-4dbf-9356-c68109af4993)
+
+## RESULT:
 
 Thus the program has been executed successfully.
  
